@@ -12,6 +12,9 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 ## Art Deco Planter:
 ![render](https://user-images.githubusercontent.com/8254123/209146681-a79221cb-dfca-4f0f-bbcf-921cd6f7337f.png)
 
+## Art Deco Bull Wall Decoration:
+![render](https://user-images.githubusercontent.com/8254123/209162895-11422732-e81d-4517-bad1-be2a0576c5c9.png)
+
 ## Dungeon Door:
 
 ![render](https://user-images.githubusercontent.com/8254123/208981495-7cd9a996-4669-4221-ae88-5d1e561b8514.png)
