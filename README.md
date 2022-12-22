@@ -1,6 +1,6 @@
 # 3D Model Collection Hand crafted in Blender
 
-My personal 3D model collection
+My personal 3D model collection that I'm continuously contributing too. Free to use in any of your projects. Just please add accredition in any commercial projects.
 
 ## Wooden Chair:
 
