@@ -16,7 +16,7 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 ![render](https://user-images.githubusercontent.com/8254123/209162895-11422732-e81d-4517-bad1-be2a0576c5c9.png)
 
 ## Dining Set:
-![render](https://user-images.githubusercontent.com/8254123/209370343-aeca3db2-39e4-4c2b-80ad-95b4ce904026.png)
+![render-2](https://user-images.githubusercontent.com/8254123/209370548-1fb29904-c206-4844-9b2b-3fd156d8569b.png)
 
 ## Dungeon Door:
 ![render](https://user-images.githubusercontent.com/8254123/208981495-7cd9a996-4669-4221-ae88-5d1e561b8514.png)
