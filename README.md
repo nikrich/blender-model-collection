@@ -15,6 +15,9 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 ## Art Deco Bull Wall Decoration:
 ![render](https://user-images.githubusercontent.com/8254123/209162895-11422732-e81d-4517-bad1-be2a0576c5c9.png)
 
+## Dining Set:
+![render](https://user-images.githubusercontent.com/8254123/209367330-773e8b21-b122-44c4-8e3a-4799a0e430fc.png)
+
 ## Dungeon Door:
 
 ![render](https://user-images.githubusercontent.com/8254123/208981495-7cd9a996-4669-4221-ae88-5d1e561b8514.png)
