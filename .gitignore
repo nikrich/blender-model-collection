@@ -1,1 +1,3 @@
 *.blend1
+/tools/ai-image-upscaler/quality-scaler-paid-for/
+/.vs
