@@ -20,3 +20,6 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 
 ## Chopping Board:
 ![render](https://user-images.githubusercontent.com/8254123/209426185-fd63f53e-0932-4a99-94e5-91fd934cc080.png)
+
+## Damascus Steel Chef's Knife:
+![render](https://user-images.githubusercontent.com/8254123/209429638-c160a9f6-8d32-4e48-a718-0e2522aed1e5.png)
