@@ -20,6 +20,3 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 
 ## Chopping Board:
 ![render](https://user-images.githubusercontent.com/8254123/209426185-fd63f53e-0932-4a99-94e5-91fd934cc080.png)
-
-## Dungeon Door:
-![render](https://user-images.githubusercontent.com/8254123/208981495-7cd9a996-4669-4221-ae88-5d1e561b8514.png)
