@@ -18,5 +18,8 @@ My personal 3D model collection that I'm continuously contributing too. Free to 
 ## Dining Set:
 ![render-2](https://user-images.githubusercontent.com/8254123/209371296-962b63e3-5d0c-4566-a27d-9875771d6361.png)
 
+## Chopping Board:
+![render](https://user-images.githubusercontent.com/8254123/209425786-53ddc779-50e8-460c-8cc2-0f3f25f37f6b.png)
+
 ## Dungeon Door:
 ![render](https://user-images.githubusercontent.com/8254123/208981495-7cd9a996-4669-4221-ae88-5d1e561b8514.png)
